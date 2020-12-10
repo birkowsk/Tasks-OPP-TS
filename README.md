@@ -1,7 +1,5 @@
 # ts_env_scripts
 
-Boilerplate with settings Eslint & Prettier & Babel configured by Birkowsk&PawelSkrodzki
-
 Boilerplate has been created for object-oriented programming tasks made by Przemocny Localhost_academy
 
 ## aby zacząć pracę z repo:
