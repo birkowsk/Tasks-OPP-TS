@@ -1,7 +1,8 @@
 # ts_env_scripts
-boilerplate z konfiguracją środowiska i testów do pisania zadań w typescript dla studentów w Akademii Localhost
 
-[Akademia Localhost](https://academy.localhost-group.com/ "Stronka Akademii Localhost")
+Boilerplate with settings Eslint & Prettier & Babel configured by Birkowsk&PawelSkrodzki
+
+Boilerplate has been created for object-oriented programming tasks made by Przemocny Localhost_academy
 
 ## aby zacząć pracę z repo:
 ```javascript
