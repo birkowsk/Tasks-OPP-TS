@@ -84,7 +84,7 @@ class Product implements IProduct {
     if (key === 'price' && typeof value === 'number') {
       isPositiveNumber(value);
       this[key] = value;
-    } else if (value === 'string' && key === 'name') {
+    } else if (value === 'string' && typeof key === 'name') {
       isStringIsEmpty(value);
       this[key] = value;
     }
