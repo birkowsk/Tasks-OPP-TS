@@ -14,7 +14,7 @@ function validateEmail(inputEmail: string): boolean {
 }
 
 function isElementExistInArray<T>(key: T, array: T[]): boolean {
-  const isElementExist = !array.includes(key);
+  const isElementExist = array.includes(key);
   return isElementExist;
 }
 
